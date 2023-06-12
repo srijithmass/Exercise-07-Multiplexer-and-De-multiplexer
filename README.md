@@ -125,12 +125,14 @@ endmodule
 
 ## TRUTH TABLE
 ## MULTIPLEXER
-![image](https://github.com/Vineesh-AI-DS/Exercise-07-Multiplexer-and-De-multiplexer/assets/93427254/32e4f452-5b91-4855-a3c6-b59284cdfc40)
+![image](https://github.com/Vineesh-AI-DS/Exercise-07-Multiplexer-and-De-multiplexer/assets/93427254/89af6240-3cff-46c0-81ca-174b9acbf111)
+
 
 
 
 ## DEMULTIPLEXER
-![image](https://github.com/Vineesh-AI-DS/Exercise-07-Multiplexer-and-De-multiplexer/assets/93427254/33b75f46-6e0b-4b08-b18b-cf6d409229bb)
+![image](https://github.com/Vineesh-AI-DS/Exercise-07-Multiplexer-and-De-multiplexer/assets/93427254/fe752ac3-43b2-4585-a24a-9cfc18a4f610)
+
 
 ## RESULTS
 Thus the implementation of Multiplexer and Demultiplexer are verified.
